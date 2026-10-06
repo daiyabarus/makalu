@@ -28,8 +28,7 @@ in the `samples` folder.
 
 - The exe is not code-signed yet. If Windows SmartScreen shows
   "Windows protected your PC", click **More info → Run anyway**.
-- Each build works for 30 days. When it locks, contact
-  [@daiyabarus](https://github.com/daiyabarus) for a new build.
+
 
 ## Limitations
 
